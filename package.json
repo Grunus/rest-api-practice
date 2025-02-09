@@ -1,0 +1,24 @@
+{
+  "name": "rest-api-practice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Grunus/rest-api-practice#readme",
+  "bugs": {
+    "url": "https://github.com/Grunus/rest-api-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grunus/rest-api-practice.git"
+  },
+  "license": "ISC",
+  "author": "depressed-goober",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "dependencies": {
+    "fastify": "^5.2.1",
+    "pino-pretty": "^13.0.0"
+  }
+}

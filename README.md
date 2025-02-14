@@ -12,5 +12,3 @@ To test it:
 * Run **npm start** to start the local web server
 
 [Postman API Documentation](https://documenter.getpostman.com/view/41102717/2sAYX9mLAY)
-
-P.S.: Рудніцький Сергій Олександрович, ІПЗ-23-1

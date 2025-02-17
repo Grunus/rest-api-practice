@@ -4,6 +4,8 @@ Used framework  - **Fastify**
 
 Used language - **JavaScript**
 
+Used auth method - **Basic Auth**
+
 To test it:
 
 * Download
